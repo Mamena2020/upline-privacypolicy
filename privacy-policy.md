@@ -2,7 +2,7 @@
 
 Last Updated: May 10 2023
 
-Thank you for using the Upline application. This privacy policy explains how we collect, use, and protect your personal information when using this application. We highly value your privacy and are committed to protecting your personal information in accordance with applicable laws.
+Thank you for using the <a href='https://play.google.com/store/apps/details?id=com.mamena.upline'>Upline</a> application. This privacy policy explains how we collect, use, and protect your personal information when using this application. We highly value your privacy and are committed to protecting your personal information in accordance with applicable laws.
 
 Information We Collect
    -  Voice Recording Data: The Upline application allows you to record voice using the voice record feature. The voice recordings you create are stored locally on your device.
