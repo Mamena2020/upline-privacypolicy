@@ -28,6 +28,16 @@ The Upline application does not collect, store, or process user personal data. A
 
 The Upline application does not require specific permissions to access or collect your personal data. All data generated or saved by this application is managed locally on your device.
 
+#### Advertising
+
+The Upline application may display advertisements to users. The following information explains how advertising is managed within the application:
+
+ - Ad Sources: In-app advertisements are provided by third-party ad providers who may use tracking technologies to display relevant ads.
+
+ - User Data and Ads: Some ads may be based on user data, such as user behavior or preferences, to display more relevant ads.
+
+ - User Options: Users may have the option to customize their ad preferences or opt out of behavior-based advertising.
+
 #### Contact Us
 
 If you have any questions or concerns about our privacy policy or the use of the Upline application, please feel free to contact us at mamenaware751@gmail.com.
