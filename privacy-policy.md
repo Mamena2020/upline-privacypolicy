@@ -1,35 +1,41 @@
 ## Privacy Policy
 
-Last Updated: May 10 2023
+Last Updated: October 27 2023
 
-Thank you for using the <a href='https://play.google.com/store/apps/details?id=com.mamena.upline'>Upline</a> application. This privacy policy explains how we collect, use, and protect your personal information when using this application. We highly value your privacy and are committed to protecting your personal information in accordance with applicable laws.
+The <a href="https://play.google.com/store/apps/details?id=com.mamena.upline">Upline</a> application is specifically designed for songwriters who want to express their musical creativity with ease and convenience. The app comes with features that assist you in writing and recording your songs. We take user privacy very seriously and want to ensure that your personal data is fully protected. This document explains how we collect, use, and protect the data you provide to us when using the Upline application.
 
-Information We Collect
-   -  Voice Recording Data: The Upline application allows you to record voice using the voice record feature. The voice recordings you create are stored locally on your device.
-    
-   -  Audio Data: You can import audio files from your device into the Upline application for editing or combining purposes. This audio data is also stored locally on your device.
-    
-   -  Lyrics Notes and Track Data: The Upline application enables you to add lyric notes and track data to organize your music projects. This information is stored locally on your device.
+#### Data We Collect
 
-Use of Information
-   -  Local Storage: The Upline application utilizes local Hive database to store voice recordings, audio data, lyric notes, and track data. This information is used to provide the appropriate functionality of the application.
-   -  Analytics: We may use third-party services to collect analytical information about the usage of the application, such as the number of users, most frequently used features, and other statistics. This information is used to improve user experience and application quality.
+The Upline application does not collect, store, or process user personal data. All data generated or saved by this application is stored locally on your device and is not uploaded or shared with third parties.
 
-Information Security
-We take reasonable steps to protect your personal information from unauthorized access, use, alteration, or disclosure. However, please note that no electronic data transmission or storage method is 100% secure. Therefore, we cannot guarantee the absolute security of your personal information.
+#### Upline App Features
 
-No Login Feature
-The Upline application does not have a login feature that requests or collects users' personal information such as names, email addresses, or passwords. We do not associate the data stored on your device with your personal identity.
+ - Voice Record: The app allows you to record audio directly on your device. These audio recordings are only available on your device.
 
-Third-Party Disclosure
-We do not share, sell, or rent your personal information to third parties unless required by law or under specific circumstances such as legal compliance or protection of our rights.
+ - Loopers: You can create music loops or beats from loopers packs or by creating custom loops. All looper data is stored on your device.
 
-Changes to the Privacy Policy
-This Privacy Policy may be updated from time to time to reflect changes in our practices or changes in applicable laws. Any changes to this Privacy Policy will be announced within the Upline application.
+ - Note Pin & Lyrics: You can write notes and lyrics for your songs. This data is stored on your device.
 
-Contact Us
-If you have any questions or comments about this Privacy Policy or the use of your personal information, please contact us via mamenaware751@gmail.com.
+ - Multiple Track: You can create more complex music compositions by adding additional tracks. All track data is stored on your device.
 
-Thank you for using the Upline application!
+ - Audio Packs & Import: The app allows you to import audio files from your device. All audio pack and import data is stored on your device.
 
-Mamena
+ - Sound Effects: The app provides various audio effects, such as Pitch Shifter, Reverb, Noise Reduction, and more. These effects are applied to existing audio data on your device.
+
+ - Export Audio Mix: You can export your projects as audio files in WAV or MP3 format. Exported files are only available on your device.
+
+#### Permission Grant
+
+The Upline application does not require specific permissions to access or collect your personal data. All data generated or saved by this application is managed locally on your device.
+
+#### Contact Us
+
+If you have any questions or concerns about our privacy policy or the use of the Upline application, please feel free to contact us at mamenaware751@gmail.com.
+
+#### Changes to Privacy Policy
+
+This privacy policy may be updated from time to time. The latest version of the privacy policy will always be available within the Upline application and will include the date of the last update.
+
+Thank you for using the Upline application. We are committed to protecting your privacy and providing a safe user experience.
+
+Mamena Tech.
