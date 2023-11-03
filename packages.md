@@ -2,7 +2,7 @@
 ``` yaml
 name: upline
 description: Songwriters App.
-version: 1.2.3
+version: 1.4.1
 
 environment:
   sdk: '>=3.0.1 <4.0.0'
@@ -11,9 +11,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   
   # basic packages
@@ -26,7 +23,7 @@ dependencies:
   collection: ^1.17.0
 
   # persistence
-  hive: ^2.2.3 # nosql database. stored all data 
+  hive: ^2.2.3 # nosql database 
   shared_preferences: ^2.0.18
 
   # networking
@@ -70,10 +67,24 @@ dependencies:
   # devices
   headset_connection_event: ^3.0.0 # headset detection
 
+  # isolate worker
+  isolated_worker: ^0.1.1
+
   # text editing 
   flutter_quill: ^8.0.0 # text editor
+  vsc_quill_delta_to_html: ^1.0.3 # convert delta to html
+
+  # pdf
+  syncfusion_flutter_pdfviewer: ^22.2.12  # pdf viewer
+  flutter_html_to_pdf:
+    git:
+      url: https://github.com/Mamena2020/flutter_html_to_pdf2
+
 
   # webview
-  webview_flutter: ^4.4.1 # show web page, html 
+  webview_flutter: ^4.4.1 # show web page, html
+
+  # archive -> compressed zip file
+  archive: ^3.4.6
 
 ```
